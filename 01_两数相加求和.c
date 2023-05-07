@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-int main()
+int main()//主函数返回值类型为int，对应return值的类型
 {
 int x, y;
 int result;
